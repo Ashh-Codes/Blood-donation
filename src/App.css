@@ -1,0 +1,30 @@
+*{
+  font-family: "Montserrat", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.headline{
+  font-family: "Rubik Wet Paint", system-ui;
+}
+.hands{
+  background-image: url(https://healthwire.co/wp-content/uploads/2020/09/Blood-Donation_lead.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bank{
+  background-image: url(https://www.osfhealthcare.org/blog/wp-content/uploads/2021/12/shutterstock_1586903512-1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.highlight {
+  background-color: lightgreen !important;
+}
+.bloodImage{
+  background-image: url(https://regencyhealthcare.in/wp-content/uploads/2018/08/blood-donation-3.png);
+  background-size: cover;
+}
+.bgtrans{
+
+  background-color: transparent;
+}
